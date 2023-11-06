@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f25"
+  },
+  "title": "Rent",
+  "budget": 375,
+  "color": "#FFCD56"
+},
+{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f26"
+  },
+  "title": "Grocery",
+  "budget": 110,
+  "color": "#FF6384"
+},
+{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f27"
+  },
+  "title": "Education",
+  "budget": 55,
+  "color": "#36A2EB"
+},
+{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f28"
+  },
+  "title": "Healthcare",
+  "budget": 100,
+  "color": "#FD6B19"
+},
+{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f29"
+  },
+  "title": "Vacation",
+  "budget": 40,
+  "color": "#D3D3D3"
+},
+{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f2a"
+  },
+  "title": "Savings",
+  "budget": 200,
+  "color": "#FE2EC8"
+},
+{
+  "_id": {
+    "$oid": "65298ac966bcd7df07086f2b"
+  },
+  "title": "Electronics",
+  "budget": 70,
+  "color": "#D8F781"
+},
+{
+  "_id": {
+    "$oid": "6529e5bc2310ab1f097b98c7"
+  },
+  "title": "gym",
+  "budget": 25,
+  "__v": 0,
+  "color": "#04B4AE"
+},
+{
+  "_id": {
+    "$oid": "652aeb1afef972fcf3325948"
+  },
+  "title": "clothes",
+  "budget": 40,
+  "color": "#ED4523",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652b693e2b290d0152f8087d"
+  },
+  "title": "car",
+  "budget": 30,
+  "color": "#006347",
+  "__v": 0
+}]
